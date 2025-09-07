@@ -7,4 +7,6 @@ public class Pippo
     //Qui fixo il bug COD001
 
     //Another fix, CD002
+
+    //This is my fix for CD004
 }
